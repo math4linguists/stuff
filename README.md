@@ -9,3 +9,5 @@
 [Семинар 2](https://github.com/math4linguists/stuff/blob/master/seminars/Seminar_Klyshinsky_20200911.ipynb) Префиксное дерево.
 
 [Лекция 3](https://github.com/math4linguists/stuff/blob/master/Lecture_3_Sorting_Complexity_20200918.ipynb) Алгоритмы сортировки, вычислительная сложность, использование индекса данных.
+
+[Семинар 3](https://github.com/math4linguists/stuff/blob/master/seminars/Seminar_Klyshinsky_20200918.ipynb) Алгоритм сортировки слиянием. Обход графа в ширину от заданной вершины.
