@@ -1,0 +1,1 @@
+/home/edward/papers/kourses/Advanced Python/NLP-Vladivostok/data/lenta2018_summer.txt
