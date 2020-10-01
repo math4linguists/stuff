@@ -11,3 +11,7 @@
 [Лекция 3](https://github.com/math4linguists/stuff/blob/master/Lecture_3_Sorting_Complexity_20200918.ipynb) Алгоритмы сортировки, вычислительная сложность, использование индекса данных.
 
 [Семинар 3](https://github.com/math4linguists/stuff/blob/master/seminars/Seminar_Klyshinsky_20200918.ipynb) Алгоритм сортировки слиянием. Обход графа в ширину от заданной вершины.
+
+[Лекция 4](https://github.com/math4linguists/stuff/blob/master/Lecture_4_Betweenness_20200925.ipynb) Меры центральности для графов, выделение именованных сущностей при помощи библиотеки Natasha.
+
+[Лекция 5](https://github.com/math4linguists/stuff/blob/master/Lecture_5_Search_in_Graph_20201002.ipynb) Алгоритмы поиска пути в графах.
