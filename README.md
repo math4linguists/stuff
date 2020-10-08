@@ -15,3 +15,5 @@
 [Лекция 4](https://github.com/math4linguists/stuff/blob/master/Lecture_4_Betweenness_20200925.ipynb) Меры центральности для графов, выделение именованных сущностей при помощи библиотеки Natasha.
 
 [Лекция 5](https://github.com/math4linguists/stuff/blob/master/Lecture_5_Search_in_Graph_20201002.ipynb) Алгоритмы поиска пути в графах.
+
+[Лекция 6](https://github.com/math4linguists/stuff/blob/master/Lecture_6_Finite_Automatons_20201009.ipynb) Генерация конечного автомата по регулярному выражению.
