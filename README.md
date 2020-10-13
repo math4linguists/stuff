@@ -17,3 +17,5 @@
 [Лекция 5](https://github.com/math4linguists/stuff/blob/master/Lecture_5_Search_in_Graph_20201002.ipynb) Алгоритмы поиска пути в графах.
 
 [Лекция 6](https://github.com/math4linguists/stuff/blob/master/Lecture_6_Finite_Automatons_20201009.ipynb) Генерация конечного автомата по регулярному выражению.
+
+[Заметка о трансдьюсерах](https://github.com/math4linguists/stuff/blob/master/Transducers.ipynb).
