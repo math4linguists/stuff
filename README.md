@@ -19,3 +19,5 @@
 [Лекция 6](https://github.com/math4linguists/stuff/blob/master/Lecture_6_Finite_Automatons_20201009.ipynb) Генерация конечного автомата по регулярному выражению.
 
 [Заметка о трансдьюсерах](https://github.com/math4linguists/stuff/blob/master/Transducers.ipynb).
+
+[Лекция 7](https://github.com/math4linguists/stuff/blob/master/Lecture_7_Formal_Parsing_20201016.ipynb) Синтаксический анализ в формальных языках.
